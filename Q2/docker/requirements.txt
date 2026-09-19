@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+joblib
+pandas
+fastapi
+uvicorn
+redis
